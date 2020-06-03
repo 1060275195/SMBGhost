@@ -1,0 +1,2 @@
+# SMBGhost
+批量测试CVE-2020-0796 - SMBv3 RCE
